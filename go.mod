@@ -2,4 +2,6 @@ module curso
 
 go 1.16
 
-require github.com/go-sql-driver/mysql v1.5.0 // indirect
+replace github.com/robmoraes/area => /home/robb/.gvm/pkgsets/go1.16/global/pkg/mod/github.com/robmoraes/area
+
+require github.com/robmoraes/area v0.0.0-00010101000000-000000000000
