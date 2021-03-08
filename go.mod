@@ -2,6 +2,4 @@ module curso
 
 go 1.16
 
-replace github.com/robmoraes/area => /home/robb/.gvm/pkgsets/go1.16/global/pkg/mod/github.com/robmoraes/area
-
-require github.com/robmoraes/area v0.0.0-00010101000000-000000000000
+require github.com/robmoraes/golang-udemy-cod3r-pkg v0.0.0-20210308102838-1f8a9a7eb6c8 // indirect
