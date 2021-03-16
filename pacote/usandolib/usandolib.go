@@ -9,6 +9,8 @@ import (
 )
 
 func main() {
-	fmt.Println(area.Circ(4.0))
+	ac := area.Circ(4.0)
+	ar := area.Rect(5.4, 2.9)
+	fmt.Println(ac, ar)
 	abc.Epa()
 }

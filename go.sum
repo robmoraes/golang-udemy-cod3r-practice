@@ -1,2 +1,6 @@
+github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
 github.com/robmoraes/golang-udemy-cod3r-pkg v0.0.0-20210308102838-1f8a9a7eb6c8 h1:R89FYdGk2rW1oTxxsH097W+6jsbTBdVmEAs7hkpsyBY=
 github.com/robmoraes/golang-udemy-cod3r-pkg v0.0.0-20210308102838-1f8a9a7eb6c8/go.mod h1:yZDVGfEj6CU3fXaAWvdA7rbiKVc61EbE5/9rV+mKGaU=
+github.com/robmoraes/golang-udemy-cod3r-pkg v0.0.0-20210316023015-9e88c19e2be1 h1:oS89JIE8c6c9seq9nwMH310kH6Nqmy02hHNKwnqFiSE=
+github.com/robmoraes/golang-udemy-cod3r-pkg v0.0.0-20210316023015-9e88c19e2be1/go.mod h1:yZDVGfEj6CU3fXaAWvdA7rbiKVc61EbE5/9rV+mKGaU=
